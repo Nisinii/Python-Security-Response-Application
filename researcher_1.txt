@@ -7,4 +7,3 @@ Issue : Ransomware Attack
 Full name : Dewshi Kulathunga
 Email : dew@gmail.com
 Issue : IoT Attack
-
